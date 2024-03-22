@@ -16,6 +16,7 @@ Welcome to the GitHub organization of Roblab, the Robotics Laboratory at the Wes
 - **LinkedIn:** [Hartmut Surmann](https://www.linkedin.com/in/hartmut-surmann-522491)
 - **YouTube:** [RoblabWHGe](https://www.youtube.com/@RoblabFhGe)
 - **Facebook:** [RoblabWHGe](https://www.facebook.com/robotat.roblabwhge)
+- **Huggingface:** [RoblabWHGe](https://huggingface.co/RoblabWhGe)
 
 Feel free to explore our repositories and projects to learn more about our ongoing research and contributions to the field of robotics and autonomous systems.
 
